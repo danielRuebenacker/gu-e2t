@@ -2,7 +2,10 @@
 Convert a Glasgow University exam timetable to a PDF containing only your exams or create a `.ics` file to import to your calendar! 
 
 
-https://github.com/user-attachments/assets/850bf00d-2ebd-464e-8340-b4e7b0c9446e
+
+https://github.com/user-attachments/assets/df103f23-ab4a-4d9d-8d39-097501c5c121
+
+
 
 
 Use at your own risk!
